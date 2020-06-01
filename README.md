@@ -1,2 +1,2 @@
-# ViralGame
+# ViralGame [![Java CI with Gradle](https://github.com/AvansInformatica-Marc/ViralGame/workflows/Java%20CI%20with%20Gradle/badge.svg)](https://github.com/AvansInformatica-Marc/ViralGame/actions?query=workflow%3A%22Java+CI+with+Gradle%22) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AvansInformatica-Marc_ViralGame&metric=alert_status)](https://sonarcloud.io/dashboard?id=AvansInformatica-Marc_ViralGame) [![License: MIT](https://badgen.net/badge/license/MIT/blue)](https://github.com/AvansInformatica-Marc/ViralGame/blob/master/LICENSE)
  
